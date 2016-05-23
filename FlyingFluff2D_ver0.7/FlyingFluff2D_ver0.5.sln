@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A910DA5C-0B91-CEFE-79CD-94D61D940009}") = "FlyingFluff2D_ver0.5", "Assembly-CSharp.csproj", "{901215EE-7186-4148-ABE9-7B0F8E7AE833}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{901215EE-7186-4148-ABE9-7B0F8E7AE833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{901215EE-7186-4148-ABE9-7B0F8E7AE833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{901215EE-7186-4148-ABE9-7B0F8E7AE833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{901215EE-7186-4148-ABE9-7B0F8E7AE833}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
